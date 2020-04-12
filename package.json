@@ -2,7 +2,7 @@
   "name": "gatsby-starter-leaflet",
   "description": "A Gatsby starter with Leafet!",
   "version": "0.2.4",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Jennie Watson",
   "dependencies": {
     "axios": "^0.19.2",
     "core-js": "^3.6.5",
