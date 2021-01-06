@@ -4,7 +4,7 @@
   "version": "0.2.4",
   "author": "Jennie Watson",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "gatsby": "^2.20.12",
     "gatsby-cli": "^2.11.7",
